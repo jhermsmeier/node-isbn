@@ -1,0 +1,16 @@
+{
+  "name": "isbn",
+  "version": "0.0.0",
+  "description": "International Standard Book Number (ISBN)",
+  "license": "MIT",
+  "main": "lib/isbn",
+  "repository": "https://github.com/jhermsmeier/node-isbn.git",
+  "scripts": {
+    "test": ""
+  },
+  "author": {
+    "name": "Jonas Hermsmeier",
+    "email": "jhermsmeier@gmail.com",
+    "url": "https://github.com/jhermsmeier"
+  }
+}
