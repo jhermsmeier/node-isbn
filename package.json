@@ -4,6 +4,9 @@
   "description": "International Standard Book Number (ISBN)",
   "license": "MIT",
   "main": "lib/isbn",
+  "devDependencies": {
+    "tape": "latest"
+  },
   "repository": "https://github.com/jhermsmeier/node-isbn.git",
   "scripts": {
     "test": ""
